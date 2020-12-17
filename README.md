@@ -19,6 +19,8 @@ export CUITTER_ACCESS_TOKEN_SECRET="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ### Install Deno
 
+https://deno.land/#installation
+
 ### Download
 
 ```
