@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd `dirname $0`
+
+deno run --unstable --allow-net --allow-env --allow-write app.ts $@
